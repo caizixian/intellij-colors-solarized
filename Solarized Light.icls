@@ -3503,10 +3503,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ffdf80" />
-        <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="EFFECT_COLOR" value="b58900" />
+        <option name="EFFECT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="b58900" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
